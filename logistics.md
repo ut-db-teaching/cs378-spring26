@@ -5,51 +5,87 @@ permalink: /logistics/
 ---
 ## 📚 Basic Information
 
-### Lecture Time/Location
-- Tuesday/Thursday, 2:00 p.m. - 3:15 p.m., RLP 0.112
+### Instructor
+- **Dixin Tang**  
+  Email: dixin@utexas.edu  
+  Website: https://dx-tang.github.io/
+
+### Course Time/Location
+- Tuesday/Thursday, 2:00 p.m. – 3:15 p.m., RLP 0.112
 
 ### Office Hours
-- **Instructor**: Wednesday, 11:00 a.m. - Noon, GDC 5.824
-- **TA**: Monday, 3:00 p.m. - 4:00 p.m., GDC 1.302 (Desk 2)
-- **TA**: Friday, 11:00 a.m. - Noon, GDC 1.302 (Desk 2)
+- **Instructor**: Wednesday, 11:00 a.m. – 12:00 p.m., GDC 5.824
+
+### Teaching Assistant
+- **Tianming Wu**  
+  Email: tianming.wu@utexas.edu  
+
+### TA Office Hours
+- TBD
+
+---
 
 ## 📝 Submission and Communication
 
-- **Assignments and Late Policy**: All assignments are submitted via [Canvas](https://utexas.instructure.com/). A total of 4 late days are allowed. A late day extends the deadline 24 hours. After the 4 late days are used up, a penalty of 10% is applied to the grade for each additional late day.
+- **Assignments and Late Policy**:  
+  All assignments will be submitted via [Canvas](https://utexas.instructure.com/).  
+  A total of **4 late days** is allowed for assignments. A late day extends the deadline by 24 hours. After the 4 late days are used, a **10% penalty per additional late day** will be applied.
 
-- **Course Communication**: We use Ed Discussion for course-related communication.
+- **Course Communication**:  
+  We use **Ed Discussion** for all course-related communication.
+
+---
 
 ## 🛡️ Sharing of Course Materials and Academic Integrity
 
-- **Sharing of course materials is prohibited**: No materials used in this class may be shared online or with anyone without the instructor’s written permission. Students are also prohibited from sharing their solutions to the course labs with anyone, even after completing the course. Unauthorized sharing of materials will be reported to [Student Conduct and Academic Integrity](https://deanofstudents.utexas.edu/conduct/) in the Office of the Dean of Students.
+### Sharing of Course Materials
+- **No recordings** are allowed.
+- Materials used in this class may **not** be shared online or with anyone without the instructor’s written permission.
+- Students are prohibited from sharing their solutions to course labs with anyone, even after completing the course.
+- Any unauthorized sharing of materials will be reported to  
+  [Student Conduct and Academic Integrity](https://deanofstudents.utexas.edu/conduct/)  
+  in the Office of the Dean of Students.
 
-- **Plagiarism is prohibited**: Students should not show or share their solutions to the course labes with anyone. Students need to use a private repository for their code. Both the plagiarized assignment and the original assignment it was copied from will receive a grade of zero. Any instance of plagiarism will be reported to [Student Conduct and Academic Integrity](https://deanofstudents.utexas.edu/conduct/) in the Office of the Dean of Students.
+### Academic Integrity
+- Do **not** show or share your code with anyone.
+- You must use a **private repository** for all coursework.
+- **Plagiarism is prohibited** in this course. Both the plagiarized assignment and the original assignment it was copied from will receive a grade of **zero**.
+- Any instance of plagiarism will also be reported to  
+  [Student Conduct and Academic Integrity](https://deanofstudents.utexas.edu/conduct/)  
+  in the Office of the Dean of Students.
 
-## 📊 Grading Breakdown and Cutoffs
+---
+
+## 📊 Grading Breakdown
 
 | Assessment         | % of Grade |
 |--------------------|------------|
-| In-class quiz 1    | 7%         |
-| In-class quiz 2    | 7%         |
-| Midterm exam       | 25%        |
-| Final exam         | 30%        |
+| Quiz 1             | 20%        |
+| Quiz 2             | 20%        |
+| Final Exam         | 25%        |
 | Lab 0              | 1%         |
-| Lab 1              | 10%        |
-| Lab 2              | 10%        |
-| Lab 3              | 10%        |
+| Lab 1              | 8%         |
+| Lab 2              | 8%         |
+| Lab 3              | 8%         |
+| PostgreSQL Lab     | 3%         |
+| Participation      | 7%         |
 
+- **Plus/minus grading** will be used for the final grade.
+
+### Grade Cutoffs
 
 | Grade | Cutoff |
-|-------|--------|
-| A     | 94%    |
-| A-    | 90%    |
-| B+    | 87%    |
-| B     | 84%    |
-| B-    | 80%    |
-| C+    | 77%    |
-| C     | 74%    |
-| C-    | 70%    |
-| D+    | 67%    |
-| D     | 64%    |
-| D-    | 60%    |
-| F     | <60%   |
+|------|--------|
+| A    | 94%    |
+| A-   | 90%    |
+| B+   | 87%    |
+| B    | 84%    |
+| B-   | 80%    |
+| C+   | 77%    |
+| C    | 74%    |
+| C-   | 70%    |
+| D+   | 67%    |
+| D    | 64%    |
+| D-   | 60%    |
+| F    | <60%   |
+
