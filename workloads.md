@@ -4,15 +4,16 @@ title: Workloads
 permalink: /workloads/
 ---
 ### 🔍 In-Class Quizzes
-- Two in-class quizzes, one in each of two classes.
+- Two in-class quizzes, one in a class.
 
 ### 🧪 Course Labs
-- Five course labs:
+- Four labs on [a pedagogical database](https://github.com/ut-db-teaching/crustydb-labs-cs378-spring26):
   - **Lab 0**: Rust Basics
   - **Lab 1**: Heap Pages
   - **Lab 2**: Heap Files
   - **Lab 3**: Query Operators
-  - **PostgreSQL Lab**: Running SQL queries in PostgreSQL 
+
+- **PostgreSQL Lab**: Running and analyzing SQL queries in PostgreSQL 
 - All course labs are completed individually.
 
 ### 📚 Exams
