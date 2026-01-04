@@ -42,17 +42,13 @@ permalink: /logistics/
 - **No recordings** are allowed.
 - Materials used in this class may **not** be shared online or with anyone without the instructor’s written permission.
 - Students are prohibited from sharing their solutions to course labs with anyone, even after completing the course.
-- Any unauthorized sharing of materials will be reported to  
-  [Student Conduct and Academic Integrity](https://deanofstudents.utexas.edu/conduct/)  
-  in the Office of the Dean of Students.
+- Any unauthorized sharing of materials will be reported to [Student Conduct and Academic Integrity](https://deanofstudents.utexas.edu/conduct/) in the Office of the Dean of Students.
 
 ### Academic Integrity
 - Do **not** show or share your code with anyone.
 - You must use a **private repository** for all coursework.
 - **Plagiarism is prohibited** in this course. Both the plagiarized assignment and the original assignment it was copied from will receive a grade of **zero**.
-- Any instance of plagiarism will also be reported to  
-  [Student Conduct and Academic Integrity](https://deanofstudents.utexas.edu/conduct/)  
-  in the Office of the Dean of Students.
+- Any instance of plagiarism will also be reported to [Student Conduct and Academic Integrity](https://deanofstudents.utexas.edu/conduct/) in the Office of the Dean of Students.
 
 ---
 
