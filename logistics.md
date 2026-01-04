@@ -10,7 +10,7 @@ permalink: /logistics/
   Email: dixin@utexas.edu  
 
 ### Course Time/Location
-- Tuesday/Thursday, 2:00 p.m. – 3:15 p.m., RLP 0.112
+- Tuesday/Thursday, 2:00 p.m. – 3:15 p.m., CPE 2.210
 
 ### Office Hours
 - **Instructor**: Wednesday, 11:00 a.m. – 12:00 p.m., GDC 5.824
