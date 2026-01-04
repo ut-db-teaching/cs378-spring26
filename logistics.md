@@ -8,7 +8,6 @@ permalink: /logistics/
 ### Instructor
 - **Dixin Tang**  
   Email: dixin@utexas.edu  
-  Website: https://dx-tang.github.io/
 
 ### Course Time/Location
 - Tuesday/Thursday, 2:00 p.m. – 3:15 p.m., RLP 0.112
