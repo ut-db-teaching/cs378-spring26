@@ -20,7 +20,7 @@ permalink: /logistics/
   Email: tianming.wu@utexas.edu  
 
 ### TA Office Hours
-- Monday/Friday, 11:00 a.m. - noon, GDC, 1.302, Desk 2  
+- Monday/Friday, 11:00 a.m. - noon, GDC 1.302, Desk 2  
 
 ---
 
