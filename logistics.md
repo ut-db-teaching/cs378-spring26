@@ -13,14 +13,14 @@ permalink: /logistics/
 - Tuesday/Thursday, 2:00 p.m. – 3:15 p.m., CPE 2.210
 
 ### Office Hours
-- **Instructor**: Wednesday, 11:00 a.m. – 12:00 p.m., GDC 5.824
+- Thursday, 10:00 a.m. – 11:00 a.m., GDC 5.824
 
 ### Teaching Assistant
 - **Tianming Wu**  
   Email: tianming.wu@utexas.edu  
 
 ### TA Office Hours
-- TBD
+- Monday/Friday, 11:00 a.m. - noon, GDC, 1.302, Desk 2  
 
 ---
 
