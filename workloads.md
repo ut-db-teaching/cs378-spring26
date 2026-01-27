@@ -24,6 +24,6 @@ permalink: /workloads/
   - **Exercise 1**: Lectures 2–3
   - **Exercise 2**: Lectures 4–8
   - **Exercise 3**: Lectures 9–12
-  - **Exercise 4**: Lectures 13–17
-  - **Exercise 5**: Lectures 16–22
+  - **Exercise 4**: Lectures 13–16
+  - **Exercise 5**: Lectures 17–21
 - The exercises are discussed in the quiz and exam review sessions.
